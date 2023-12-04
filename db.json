@@ -5,14 +5,14 @@
       "name": "Computer",
       "price": 4300,
       "quantity": "99999",
-      "selected": true,
-      "available": true
+      "selected": false,
+      "available": false
     },
     {
       "name": "p",
       "price": "90",
       "quantity": 0,
-      "selected": true,
+      "selected": false,
       "available": true,
       "id": 2
     },
@@ -21,8 +21,24 @@
       "name": "azerty",
       "price": 0,
       "quantity": 0,
-      "selected": true,
+      "selected": false,
       "available": true
+    },
+    {
+      "name": "nezhaamazigh",
+      "price": "1000000",
+      "quantity": "1",
+      "selected": true,
+      "available": false,
+      "id": 4
+    },
+    {
+      "name": "NewAdded",
+      "price": "56",
+      "quantity": "40",
+      "selected": false,
+      "available": false,
+      "id": 5
     }
   ]
 }
