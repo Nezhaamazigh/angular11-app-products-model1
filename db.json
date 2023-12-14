@@ -21,7 +21,7 @@
       "name": "azerty",
       "price": 0,
       "quantity": 0,
-      "selected": false,
+      "selected": true,
       "available": true
     },
     {
